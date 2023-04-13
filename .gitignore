@@ -5,4 +5,4 @@ ny_taxi_postgres_data/
 *.prefectignore
 __pycache__/
 data/
-
+*.yaml
